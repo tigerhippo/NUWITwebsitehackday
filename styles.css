@@ -1,0 +1,129 @@
+.row {
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.about-me-header {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 100px;
+}
+
+.intro-text {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.profile-pic {
+    height: 500px;
+    width: 400px;
+    display: block;
+    margin-left: 450px;
+    margin-right: 500px;
+    /*width: 50%;*/
+}
+
+.where-from-header {
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+.where-from-text {
+    margin-top: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.boston-images {
+    display: flex;
+}
+
+.back-bay {
+    margin-top: 50px;
+    height: 250px;
+    width: 400px;
+}
+
+.beacon-hill {
+    margin-top: 50px;
+    height: 300px;
+    width: 500px;
+}
+
+.caption-text {
+    margin-top: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 100px;
+    font-size: 25px;
+}
+
+.boston-image {
+    margin-left: 30px;
+    margin-top: 50px;
+    height: 250px;
+    width: 400px;
+}
+
+.where-study-header {
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+.where-study-text {
+    margin-top: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.classes-taken {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.class-taken {
+    margin-left: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.club-images {
+    display: flex;
+}
+
+.club-image {
+    margin-left: 100px;
+    margin-top: 50px;
+    height: 200px;
+    width: 300px;
+}
+
+.clubs {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.what-like-header {
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
