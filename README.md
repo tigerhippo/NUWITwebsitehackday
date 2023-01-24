@@ -1,7 +1,11 @@
 # NUWITwebsitehackday
 NUWIT website hack day personal website 
 
-I could not get a working link to my website for some reason, so here are some screenshots of my website:
+I could not get a working link to my website for some reason, and I cannot attach a video clip to GitHub, so here are some screenshots of my website.
+
+NOTES
+The 'Intro', 'Projects', and 'Experience' titles in the top left are clickable, and each leads to a separate page.
+The 'Oasis', 'NUWIT', and 'NUCALLS' club images are also clickable, and each leads to a page of that particular club's website.
   
 <img width="1436" alt="Screen Shot 2023-01-23 at 8 15 33 PM" src="https://user-images.githubusercontent.com/60333735/214193120-c6272add-86ec-4a26-a681-6420cde6f9fe.png">
 <img width="1440" alt="Screen Shot 2023-01-23 at 8 15 22 PM" src="https://user-images.githubusercontent.com/60333735/214193121-978cd42d-cbbb-462c-a6f8-a0dfda216785.png">
