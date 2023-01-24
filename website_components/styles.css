@@ -1,0 +1,290 @@
+.row {
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.about-me-header {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 100px;
+}
+
+.intro-text {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.profile-pic {
+    height: 500px;
+    width: 400px;
+    display: block;
+    margin-left: 450px;
+    margin-right: 500px;
+}
+
+.where-from-header {
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+.where-from-text {
+    margin-top: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.boston-images {
+    display: flex;
+}
+
+.back-bay {
+    margin-top: 50px;
+    height: 250px;
+    width: 400px;
+}
+
+.beacon-hill {
+    margin-top: 50px;
+    height: 300px;
+    width: 500px;
+}
+
+.caption-text {
+    margin-top: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 100px;
+    font-size: 25px;
+}
+
+.boston-image {
+    margin-left: 30px;
+    margin-top: 50px;
+    height: 250px;
+    width: 400px;
+}
+
+.where-study-header {
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+.where-study-text {
+    margin-top: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.classes-taken {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.class-taken {
+    margin-left: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.club-images {
+    display: flex;
+}
+
+.club-image {
+    margin-left: 100px;
+    margin-top: 50px;
+    height: 200px;
+    width: 300px;
+}
+
+.clubs {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.what-like-header {
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+.what-like-header {
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+.what-like-text {
+    margin-top: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.language-image {
+    margin-top: 50px;
+    height: 800px;
+    width: 1250px;
+}
+
+.sports {
+    margin-top: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+}
+
+.sports-text {
+    margin-top: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.sports-image {
+    margin-top: 50px;
+    height: 1000px;
+    width: 1000px;
+}
+
+.movies-text {
+    margin-top: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.movies-images {
+    display: flex;
+}
+
+.movies-image {
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 500px;
+    width: 400px;
+}
+
+.history {
+    margin-top: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+}
+
+.history-text {
+    margin-top: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.history-image {
+    margin-top: 50px;
+    height: 500px;
+    width: 750px;
+}
+
+.projects-header {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 100px;
+}
+
+.project-header {
+    margin-top: 100px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.project {
+    margin-top: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+}
+
+.project-text {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.extension-image {
+    height: 250px;
+    width: 500px;
+}
+
+.game-image {
+    height: 700px;
+    width: 500px;
+}
+
+.mobile-app-image {
+    height: 400px;
+    width: 250px;
+}
+
+.ktbyte-image {
+    height: 200px;
+    width: 400px;
+}
+
+.logo-image {
+    height: 400px;
+    width: 400px;
+}
+
+.project-text-bold {
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+/*.extension-header {
+    margin-top: 100px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+.extension {
+    margin-top: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+}
+
+.extension-text {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.extension-image {
+    height: 250px;
+    width: 500px;
+}*/
