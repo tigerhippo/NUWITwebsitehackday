@@ -1,5 +1,5 @@
-# NUWITwebsitehackday
-NUWIT website hack day personal website 
+# My Personal Webiste
+This was a personal website that I created at the NUWIT website hack day!
 
 I could not get a working link to my website for some reason, and I cannot attach a video clip to GitHub, so here are some screenshots of my website.
 
