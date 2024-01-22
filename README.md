@@ -3,7 +3,6 @@ NUWIT website hack day personal website
 
 I could not get a working link to my website for some reason, and I cannot attach a video clip to GitHub, so here are some screenshots of my website.
 
-NOTES
 The 'Intro', 'Projects', and 'Experience' titles in the top left are clickable, and each leads to a separate page.
 The 'Oasis', 'NUWIT', and 'NUCALLS' club images are also clickable, and each leads to a page of that particular club's website.
   
