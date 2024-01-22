@@ -5,9 +5,9 @@ I could not get a working link to my website for some reason, and I cannot attac
 
 The 'Intro', 'Projects', and 'Experience' titles in the top left are clickable, and each leads to a separate page.
 The 'Oasis', 'NUWIT', and 'NUCALLS' club images are also clickable, and each leads to a page of that particular club's website.
-  
-<img width="1436" alt="Screen Shot 2023-01-23 at 8 15 33 PM" src="https://user-images.githubusercontent.com/60333735/214193120-c6272add-86ec-4a26-a681-6420cde6f9fe.png">
+
 <img width="1440" alt="Screen Shot 2023-01-23 at 8 15 22 PM" src="https://user-images.githubusercontent.com/60333735/214193121-978cd42d-cbbb-462c-a6f8-a0dfda216785.png">
+<img width="1436" alt="Screen Shot 2023-01-23 at 8 15 33 PM" src="https://user-images.githubusercontent.com/60333735/214193120-c6272add-86ec-4a26-a681-6420cde6f9fe.png">
 <img width="1440" alt="Screen Shot 2023-01-23 at 8 15 04 PM" src="https://user-images.githubusercontent.com/60333735/214193122-087cedc8-8a23-4a19-a113-65f513ce0798.png">
 <img width="1438" alt="Screen Shot 2023-01-23 at 8 14 57 PM" src="https://user-images.githubusercontent.com/60333735/214193123-c4b1e967-e001-4572-8ddb-f98522c7d067.png">
 <img width="1438" alt="Screen Shot 2023-01-23 at 8 14 51 PM" src="https://user-images.githubusercontent.com/60333735/214193125-73dd137d-3c9e-4c9b-bc2d-3fa5b06e9f90.png">
