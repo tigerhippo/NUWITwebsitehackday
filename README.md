@@ -4,7 +4,7 @@ This was a personal website that I created at the NUWIT website hack day!
 I could not get a working link to my website for some reason, and I cannot attach a video clip to GitHub, so here are some screenshots of my website.
 
 On my actual website (not the screenshots here), the 'Intro', 'Projects', and 'Experience' titles in the top left are clickable, and each leads to their respective pages.
-The 'Oasis', 'NUWIT', and 'NUCALLS' club images are also clickable, and each leads to a page of that particular club's website.
+The 'Oasis', 'NUWIT', and 'NUCALLS' club images are also clickable, and each leads to that particular club's website.
 
 <img width="1419" alt="Screen Shot 2023-01-23 at 8 13 54 PM" src="https://user-images.githubusercontent.com/60333735/214193133-7e4310ee-3421-49db-943f-dde330b36381.png">
 <img width="1405" alt="Screen Shot 2023-01-23 at 8 14 02 PM" src="https://user-images.githubusercontent.com/60333735/214193132-b4088ac3-b5fe-41fc-a2e3-2d5bd25d9e74.png">
